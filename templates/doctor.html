@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css">
+</head>
+<body class="p-6">
+    <h1 class="text-2xl font-bold">Admin Panel</h1>
+    <div class="bg-white shadow-md rounded p-4 mt-4">
+        <table class="w-full border-collapse border border-gray-300">
+            <thead>
+                <tr class="bg-gray-200">
+                    <th class="border border-gray-300 p-2">Doctor</th>
+                    <th class="border border-gray-300 p-2">Specialty</th>
+                    <th class="border border-gray-300 p-2">Availability</th>
+                    <th class="border border-gray-300 p-2">Tokens</th>
+                    <th class="border border-gray-300 p-2">Actions</th>
+                </tr>
+            </thead>
+            <tbody id="doctorTable">
+                <tr>
+                    <td class="border border-gray-300 p-2">Dr. Smith</td>
+                    <td class="border border-gray-300 p-2">Cardiology</td>
+                    <td class="border border-gray-300 p-2"><button class="bg-green-500 text-white px-2 py-1">Available</button></td>
+                    <td class="border border-gray-300 p-2">5</td>
+                    <td class="border border-gray-300 p-2">
+                        <button class="bg-blue-500 text-white px-2 py-1">+1</button>
+                        <button class="bg-red-500 text-white px-2 py-1 ml-2">-1</button>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="border border-gray-300 p-2">Dr. Johnson</td>
+                    <td class="border border-gray-300 p-2">Dermatology</td>
+                    <td class="border border-gray-300 p-2"><button class="bg-red-500 text-white px-2 py-1">Unavailable</button></td>
+                    <td class="border border-gray-300 p-2">0</td>
+                    <td class="border border-gray-300 p-2">
+                        <button class="bg-blue-500 text-white px-2 py-1">+1</button>
+                        <button class="bg-red-500 text-white px-2 py-1 ml-2">-1</button>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
