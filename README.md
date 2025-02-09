@@ -1,32 +1,32 @@
-# [Project Name] 🎯
+# [PRAVEGA] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [aakg]
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: [ASNA VP] - [SIMAT]
+- Member 2: [ANAGHA A] - [SIMAT]
+- Member 3: [AADHILAKSHMI TN] - [SIMAT]
 
 ### Hosted Project Link
-[mention your project hosted project link here]
+[]
 
 ### Project Description
-[2-3 lines about what your project does]
-
+[Our website is designed to make managing your healthcare appointments simple and stress-free. With an intuitive interface, you can easily schedule, reschedule, or cancel doctor’s appointments, all from the comfort of your home.]
 ### The Problem statement
-[What ridiculous problem are you solving?]
+[ The website helps you save time by offering reminders, so you never miss an important visit, and even allows you to access your doctor's availability and book at your convenience. Our goal is to make healthcare more accessible, putting you in control of your health with ease and efficiency.]
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+[To solve the common frustration of managing appointments, we provide a user-friendly interface that shows your doctor’s availability in real-time, streamlining the process. You can even track your past appointments and set future ones in a few simple steps. Our goal is to save you time and effort, ensuring you can focus more on your health and less on administrative tasks.]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
+- [HTML, SQlite, Python]
+- [CSS, FLASK]
 - [Libraries used]
 - [Tools used]
 
@@ -91,9 +91,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [ASNA VP]: [Contributed to the front end developing of the website]
+- [Anagha A]: [Contributed to the idea]
+- [Aadhilakshmi TN]: [Contributed in powerpoint slide creation]
 
 ---
 Made with ❤️ at TinkerHub
